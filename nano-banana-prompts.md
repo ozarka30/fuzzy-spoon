@@ -37,21 +37,23 @@ Item: Astral Nutrient Pellet Jar. Function: pet food that raises bond level. Rar
 
 # Null line (base egg + hatchling everything evolves from)
 
-Design anchor: neutral grey/cream palette, simple soft silhouette, one hollow ring sigil on the forehead. Element forms fill the sigil, add 1–2 features, and swap the two accent colors; the grey base stays.
+Design anchor: featureless cream blank slate. No sigils or markings. Element forms add color accents, features, and personality on top.
 
 ## Null Egg
 
 [BASE STYLE BLOCK]
 
-SUBJECT: The Null Egg, the elementless base egg in a cosmic pet-breeding game. A plump, slightly tall egg with a smooth matte shell, sitting upright and gently tilted. Shell color: warm pale grey (#D8D4CC) with a cream highlight side and a slate grey halftone shadow side. The only marking is a single hollow ring sigil centered on the front of the shell, drawn in dark slate ink, with nothing inside it, a visible empty slot. A few tiny soft grey speckles near the base. No cracks, no glow, no sparkles, no color accents; it should feel calm, neutral, and full of potential rather than magical. Palette: pale grey, cream, slate grey, near-black ink. Four colors only.
+SUBJECT: The Null Egg, the elementless base egg in a cosmic pet-breeding game. A plump, slightly tall egg with a completely featureless smooth matte shell, sitting upright with a gentle tilt. Shell color: soft warm cream (#F2E8D5) with a lighter ivory highlight on the upper-left side and a warm tan halftone dot shadow on the lower-right side. No markings, no speckles, no cracks, no patterns, no symbols, no glow, no sparkles, no color accents of any kind. It should feel calm, quiet, and unremarkable, like a blank slate. Palette: cream, ivory, warm tan, near-black ink. Four colors only.
 
 ## Null Hatchling (Digimon baby-form build: limbless blob)
 
 [BASE STYLE BLOCK]
 
-SUBJECT: The Null Hatchling, the elementless base creature that every other form in a cosmic pet-breeding game evolves from. A tiny limbless blob creature, basically one round squishy head-body like a baby-stage digital monster: a soft rounded dome shape slightly wider than it is tall, with a squashed, gelatinous bottom edge where it rests, and a single short rounded nub on top of its head. No arms, no legs, no tail, no ears. Smooth matte skin in warm pale grey (#D8D4CC), a cream underside, slate grey halftone shading on the shadow side. Two large round black eyes set wide apart with a single white highlight each, a small wide open smile showing no teeth, faint pink cheek blush. Centered on its forehead between the eyes, the same hollow ring sigil from its egg, drawn in dark slate ink, still empty. Pose: slight bounce and lean, one eye half-squinted, cheerful and curious. No horns, spikes, fur tufts, patterns, glow, or color accents; it must look deliberately plain and unfinished so later elemental forms can grow features from it. Palette: pale grey, cream, slate grey, soft pink, near-black ink.
+SUBJECT: The Null Hatchling, the elementless base creature that every other form in a cosmic pet-breeding game evolves from. A tiny limbless blob creature, basically one round squishy head-body like a baby-stage digital monster: a soft rounded dome shape slightly wider than it is tall, with a squashed bottom edge where it rests, and a single short rounded nub on top of its head. No arms, no legs, no tail, no ears. Its surface has a slight short fuzz, shown as a softly broken, lightly jagged outline and a few tiny stray hair strokes, not long fur. Color: soft warm cream (#F2E8D5) with an ivory highlight and warm tan halftone shading on the shadow side. Two large, perfectly round, empty eyes: flat solid black circles with no pupils, no highlights, no reflections. A tiny flat straight line for a mouth. No blush, no eyebrows. Expression completely neutral and vacant, calm and watchful, neither happy nor sad. Pose: sitting perfectly still and upright, facing slightly toward the camera. No markings, symbols, horns, spikes, patterns, glow, or color accents; it must look deliberately plain and unfinished so later elemental forms can grow features and personality from it. Palette: cream, ivory, warm tan, near-black ink. Four colors only.
 
-Growth plan: Hatchling = blob (sigil fills with element mark). In-training = blob + ears/tail/one element feature, still limbless. Rookie = limbs and real body plan (fox, rat, hound, etc).
+If empty black eyes read too creepy, try "flat solid pale grey circles".
+
+Growth plan: Hatchling = fuzzy cream blob. In-training = blob + ears/tail/one element feature and first color accent, still limbless. Rookie = limbs and real body plan.
 
 ## Consistency sheet (attach chosen hatchling image as reference)
 
