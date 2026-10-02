@@ -32,3 +32,25 @@ Item: Astral Nutrient Pellet Jar. Function: pet food that raises bond level. Rar
 - Halftones drift to gradients: always say "halftone dot screen", "no gradients", "visible dots".
 - Negatives go in the prompt body as instructions; there is no negative prompt field.
 - Name 3–4 colors per prompt; a tight palette is the biggest lever for the vintage look.
+
+---
+
+# Null line (base egg + hatchling everything evolves from)
+
+Design anchor: neutral grey/cream palette, simple soft silhouette, one hollow ring sigil on the forehead. Element forms fill the sigil, add 1–2 features, and swap the two accent colors; the grey base stays.
+
+## Null Egg
+
+[BASE STYLE BLOCK]
+
+SUBJECT: The Null Egg, the elementless base egg in a cosmic pet-breeding game. A plump, slightly tall egg with a smooth matte shell, sitting upright and gently tilted. Shell color: warm pale grey (#D8D4CC) with a cream highlight side and a slate grey halftone shadow side. The only marking is a single hollow ring sigil centered on the front of the shell, drawn in dark slate ink, with nothing inside it, a visible empty slot. A few tiny soft grey speckles near the base. No cracks, no glow, no sparkles, no color accents; it should feel calm, neutral, and full of potential rather than magical. Palette: pale grey, cream, slate grey, near-black ink. Four colors only.
+
+## Null Hatchling
+
+[BASE STYLE BLOCK]
+
+SUBJECT: The Null Hatchling, the elementless base creature that every other form in a cosmic pet-breeding game evolves from. A small, round, soft-bodied quadruped about the size of a kitten, built from simple shapes: a big round head, stubby body, four short nub legs, a short thick tapered tail, and two rounded ears that droop slightly. Smooth matte skin in warm pale grey (#D8D4CC), cream belly and muzzle, slate grey halftone shading. Large round black eyes with a single white highlight each, tiny closed smile, faint pink cheek blush. On its forehead, the same hollow ring sigil from its egg, drawn in dark slate ink, still empty. Pose: sitting upright, head tilted, curious and a little sleepy, one ear perked. No horns, wings, spikes, fur tufts, patterns, glow, or color accents; it must look deliberately plain and unfinished so later elemental forms can add features on top of it. Palette: pale grey, cream, slate grey, soft pink, near-black ink.
+
+## Consistency sheet (attach chosen hatchling image as reference)
+
+Match this exact art style, line weight, halftone density, proportions, and palette. Show the same Null creature as a reference sheet on a solid #00FF00 background: Null Egg, Null Egg cracking with one eye peeking out, and Null Hatchling, side by side in a row with equal spacing, same scale relationship, same upper-left key light. No text, no labels, no shadows.
