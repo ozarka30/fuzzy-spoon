@@ -64,3 +64,30 @@ Growth plan: Hatchling = fuzzy cream blob. In-training = blob + ears/tail/one el
 ## Consistency sheet (attach chosen hatchling image as reference)
 
 Match this exact art style, line weight, halftone density, proportions, and palette. Show the same Null creature as a reference sheet on a solid #00FF00 background: Null Egg, Null Egg cracking with one eye peeking out, and Null Hatchling, side by side in a row with equal spacing, same scale relationship, same upper-left key light. No text, no labels, no shadows.
+
+---
+
+# Seamless floor textures
+
+## Texture base (paste every time)
+
+STYLE: 1930s–1950s vintage cartoon / retro comic print. Thick, confident black ink outlines with slight line-weight variation. Bold, flat colors, limited palette of 3–5 colors. Shading done ONLY with visible halftone dot screens, no gradients, no airbrush, no painterly rendering. Slight off-register print misalignment and faint paper grain. Simplified, chunky, hand-drawn shapes.
+
+FORMAT: SEAMLESS TILEABLE GAME TEXTURE. Perfectly flat top-down orthographic view, as if looking straight down at a floor. The pattern repeats seamlessly: the left edge continues exactly into the right edge and the top edge continues exactly into the bottom edge, so the image can be tiled infinitely with no visible seam. Completely even, uniform lighting across the whole image: no light source, no key light, no cast shadows, no vignette, no darker corners, no central focal point, no large unique shape that would stand out when repeated. The texture fills the entire canvas edge to edge. No objects, no creatures, no props, no text, no watermark, no border, no frame. Square 1:1.
+
+## Fills
+
+Wood: Worn wooden plank flooring for a cozy cosmic pet shop. Horizontal planks of equal width, staggered joints, simple knots and a few short grain lines per plank, drawn with bold ink. Colors: warm honey wood (#D9A866), darker caramel halftone shading along plank edges, dark brown ink lines. Four colors only.
+
+Checker: Retro checkerboard tile flooring for a vintage pet shop. Alternating squares in cream (#F2E8D5) and dusty teal (#5FA8A0), 4 by 4 squares across the canvas so the tiling period is clean, thin dark ink grout lines, a few tiny halftone scuff marks on the cream squares. Three colors plus ink.
+
+Cosmic stone: Flagstone paving for an astral starfield garden. Irregular rounded cobblestones packed tightly with thin dark mortar gaps, each stone shaded on one consistent side with a halftone dot screen. Colors: deep indigo stone (#3B3A6B), lighter periwinkle highlight, near-black mortar, a very sparse scatter of tiny four-point cream star specks. Four colors only.
+
+Grass: Flat cartoon grass ground for a creature pen. Solid base color with evenly scattered small tufts of three or four short blade strokes each, no two tufts touching, plus a sparse halftone dot screen for texture. Colors: bold apple green (#7CC14A), darker leaf green tufts and dots, dark green ink. Three colors only.
+
+## Tile tips
+
+- Test seams by offsetting half width/height. Fix with edit mode: "fix the visible seam lines running through the center so the pattern flows continuously; change nothing else."
+- Keep the repeat period short (4–6 repeats across the canvas).
+- Generate one 1024 tile, let the engine tile it.
+- Floors top-down, walls front-on; the camera handles 2.5D perspective.
