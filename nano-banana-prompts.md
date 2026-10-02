@@ -91,3 +91,23 @@ Grass: Flat cartoon grass ground for a creature pen. Solid base color with evenl
 - Keep the repeat period short (4–6 repeats across the canvas).
 - Generate one 1024 tile, let the engine tile it.
 - Floors top-down, walls front-on; the camera handles 2.5D perspective.
+
+---
+
+# Spine (2D skeletal) parts sheet
+
+FORMAT swap for rigging: replace the ISOLATED CUTOUT block with this.
+
+FORMAT: 2D SKELETAL ANIMATION PARTS SHEET (paper-doll cutout sheet for rigging). The ENTIRE background is one uniform flat solid bright green #00FF00, edge to edge, like a chroma key sheet. The character is split into separate, fully drawn body parts, each one laid out on its own with clear green space around it, none touching or overlapping. Each part is drawn COMPLETE, including the portion that would normally be hidden behind a neighboring part, extended slightly so the pieces overlap when reassembled. Every part is drawn at the same scale, from the same straight-on front view, with the same soft even lighting, so they fit together perfectly. In the top-left corner, show the fully assembled character once at the same scale as a reference. No ground shadow, no surface, no scenery, no props, no text, no labels, no numbers, no arrows, no watermark, no border, no frame. Square 1:1.
+
+Then append to the Null Hatchling SUBJECT:
+
+PARTS TO SEPARATE, exactly these five and nothing else:
+1. BODY: the full dome body with the squashed bottom, completely blank with no face and no nub, the top of the dome drawn closed and complete where the nub would sit.
+2. NUB: the small rounded head nub on its own, with a short extra stub at its base extending downward that will tuck behind the body.
+3. LEFT EYE: one flat solid black circle.
+4. RIGHT EYE: one identical flat solid black circle.
+5. MOUTH: the tiny flat straight ink line on its own.
+
+Fix-up edit if parts fuse: "Remove the eyes and mouth from the BODY piece, leaving the cream dome blank. Change nothing else."
+Element forms: add new features as extra numbered parts; keep the first five unchanged so every variant shares the base rig.
