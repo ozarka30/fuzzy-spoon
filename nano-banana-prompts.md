@@ -131,3 +131,23 @@ PALETTE, use ONLY these six colors and nothing else, no tints or mixes:
 #181818 ink: all outlines, hair, stubble, eyes, and the single shadow tone on every color
 
 Tip: tie each hex to a specific part or Nano Banana drifts off-palette. Swap white for the green chroma block if it becomes an in-game sprite.
+
+## Trail hunter, halftone version (matches the creature set)
+
+Prepend when attaching the Null Hatchling as reference: "Match the exact line weight, halftone density, and print texture of this creature."
+
+[BASE STYLE BLOCK, paper grain on subject only]
+
+FORMAT: ISOLATED CUTOUT ASSET. The ENTIRE background is one uniform flat solid bright green #00FF00, edge to edge, like a chroma key sheet. Nothing else exists in the image: no room, no floor, no ground line, no surface, no ground shadow, no props on the floor, no scenery, no horizon, no vignette, no texture outside the subject. The subject floats centered on the flat green with margin on all sides. Camera: 3/4 front view from slightly above eye level, matching a 2.5D game. Lighting: soft key light from the upper left, halftone dot shading on the lower-right side of every shape. No text, no watermark, no border, no frame. Portrait 3:4.
+
+SUBJECT: A rugged trail hunter, the human caretaker character in a cosmic pet-breeding game, drawn in the same print style as its cream blob creatures. Full body, standing in a relaxed 3/4 stance, weight on one leg. Stocky, rounded rubber-hose build: big round head, short thick torso, stubby limbs, oversized hands and boots. Wide-brim flat-crowned hat with a band. Thick poncho draped over the shoulders with a bold zig-zag border along the hem, the zig-zag drawn as flat ink shapes. Crossbody leather satchel with a flap. A tall wooden tracking staff held upright in one hand, topped with a small carved ornament. Weathered face with simple squinting eyes, strong jaw, stubble drawn as a sparse halftone patch. Calm, unbothered expression. Mexican lucha libre and folk-art flavor in the pattern work and silhouette.
+
+PALETTE, use ONLY these colors, applied as flat fills with halftone shadows in the same hue:
+#E1402B red: poncho body
+#FAA612 orange: hat, boots, staff
+#13AAAA teal: poncho zig-zag border, satchel strap
+#5EC17F green: trousers, hat band
+#FDCD01 yellow: satchel, staff ornament, shirt
+#F2E8D5 cream: skin, matching the Null Hatchling
+#181818 ink: all outlines, hair, eyes, stubble
+Plus the flat green background. Nothing else.
