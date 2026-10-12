@@ -111,3 +111,23 @@ PARTS TO SEPARATE, exactly these five and nothing else:
 
 Fix-up edit if parts fuse: "Remove the eyes and mouth from the BODY piece, leaving the cream dome blank. Change nothing else."
 Element forms: add new features as extra numbered parts; keep the first five unchanged so every variant shares the base rig.
+
+---
+
+# Flat vector folk-art character (trace-ready, separate style from the halftone set)
+
+STYLE: Flat vector comic character, Mexican lucha libre and folk-art inspired (papel picado, alebrije, loteria card energy). Bold, uniform-weight black outlines, every shape closed. Solid flat color fills only. No gradients, no texture, no halftone, no paper grain, no highlights, no glow. Shading limited to ONE hard-edged darker shadow tone per color, placed on the lower-right side of each shape. Simple geometric construction: circles, rounded rectangles, triangles, chunky limbs. Clean, readable silhouette. Easy to trace into vector paths.
+
+FORMAT: ISOLATED CHARACTER. Front-facing, full body, standing in a neutral symmetrical pose, feet visible, centered with margin on all sides. The ENTIRE background is pure flat white #FFFFFF edge to edge. No ground line, no cast shadow, no scenery, no props on the floor, no vignette, no text, no watermark, no border, no frame. Portrait 3:4.
+
+SUBJECT: A rugged trail hunter. Wide-brim flat-crowned hat with a band. Thick poncho draped over the shoulders with a bold zig-zag border pattern along the hem. Crossbody leather satchel with a flap. A tall wooden tracking staff held upright in one hand, topped with a small carved ornament. Weathered, squinting, calm expression, strong jaw, simple stubble shapes. Sturdy boots.
+
+PALETTE, use ONLY these six colors and nothing else, no tints or mixes:
+#E1402B red: poncho body
+#FAA612 orange: hat, boots, staff
+#13AAAA teal: poncho zig-zag border, satchel strap
+#5EC17F green: trousers, hat band
+#FDCD01 yellow: satchel, staff ornament, shirt
+#181818 ink: all outlines, hair, stubble, eyes, and the single shadow tone on every color
+
+Tip: tie each hex to a specific part or Nano Banana drifts off-palette. Swap white for the green chroma block if it becomes an in-game sprite.
